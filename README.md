@@ -28,19 +28,19 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="www.linkedin.com/in/fabinhofreitas" title="LinkedIn" target="_blank">
+<a target="_blank" href="www.linkedin.com/in/fabinhofreitas" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<a href="https://www.instagram.com/ffabiiin/" title="Instagram" target="_blank">
+<a target="_blank" href="https://www.instagram.com/ffabiiin/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<a href="https://www.youtube.com/@fabinhodesigns" title="YouTube" target="_blank">
+<a target="_blank" href="https://www.youtube.com/@fabinhodesigns" title="YouTube" target="_blank">
 <img src="https://img.shields.io/badge/@fabinhodesigns-FF0909?style=for-the-badge&logo=youtube&logoColor=white" alt="TikTok"/></a>
 
-<a href="https://www.tiktok.com/@fabinhodesigns" title="TikTok" target="_blank">
+<a target="_blank" href="https://www.tiktok.com/@fabinhodesigns" title="TikTok" target="_blank">
 <img src="https://img.shields.io/badge/@fabinhodesigns-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 
-<a href="https://www.instagram.com/fabinhodesigns/" title="Instagram" target="_blank">
+<a target="_blank" href="https://www.instagram.com/fabinhodesigns/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/@fabinhodesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br>
@@ -75,7 +75,7 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
 <br>
 
 <p align="center">
-  <a
+  <a target="_blank"
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
   >
