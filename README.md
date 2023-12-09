@@ -28,7 +28,7 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a target="_blank" href="www.linkedin.com/in/fabinhofreitas" title="LinkedIn" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/fabinhofreitas" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a target="_blank" href="https://www.instagram.com/ffabiiin/" title="Instagram" target="_blank">
