@@ -29,19 +29,19 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
 </p>
 
 <a href="www.linkedin.com/in/fabinhofreitas" title="LinkedIn" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>Linkedin</a>
+<img src="https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>Linkedin</a>
 
 <a href="https://www.instagram.com/ffabiiin/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>Perfil Pessoal</a>
+<img src="https://img.shields.io/badge/Perfil%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>Perfil Pessoal</a>
 
 <a href="https://www.instagram.com/fabinhodesigns/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>Perfil de Edições</a>
+<img src="https://img.shields.io/badge/@fabinhodesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>Perfil de Edições</a>
 
 <a href="https://www.youtube.com/@fabinhodesigns" title="YouTube" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0909?style=for-the-badge&logo=youtube&logoColor=white" alt="TikTok"/>Perfil YouTube</a>
+<img src="https://img.shields.io/badge/YouTube%20@fabinhodesigns-FF0909?style=for-the-badge&logo=youtube&logoColor=white" alt="TikTok"/>Perfil YouTube</a>
 
 <a href="https://www.tiktok.com/@fabinhodesigns" title="TikTok" target="_blank">
-<img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>Perfil TikTok</a>
+<img src="https://img.shields.io/badge/Tiktok%20@fabinhodesigns-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>Perfil TikTok</a>
 <br>
 <br>
 <table>
