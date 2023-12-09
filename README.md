@@ -7,7 +7,7 @@
 
 Faço faculdade na <a href="https://ufsc.br/"><strong>Universidade Federal de Santa Catarina - UFSC</strong></a> no curso de <a href="https://tic.ufsc.br/">Tecnologias da informação e Comunicação<strong></strong></a>. Atualmente busco melhorar cada vez mais meu conhecimento técnico como desenvolvedor, mas me especializando mais na área de Frontend que gosto mais. Sou também um entusiasta da área de <strong>Motion Designer & VFX</strong>, criando e editando diversos vídeos, publicando eles tanto no YouTube, TikTok e Instragram.
 
-Estou constantemente em busca de desafios e oportunidades que impulsionem meu contínuo crescimento e aprendizado. Se você estiver interessado em uma colaboração dinâmica ou na troca de ideias inovadoras, ficarei encantado em receber seu contato. Tenho paixão por conhecer novas mentes criativas e estou determinado a explorar maneiras de aprimorar o cenário digital, contribuindo para tornar o mundo online um lugar extraordinário. Estou ansioso para conectarmos e compartilharmos nossa visão de excelência no desenvolvimento web e na integração de efeitos visuais de última geração.
+Estou sempre em busca de desafios e oportunidades para crescimento contínuo. Interessado em colaborações dinâmicas e troca de ideias inovadoras, tenho paixão por conhecer mentes criativas e aprimorar o cenário digital. Ansioso para conectar e compartilhar nossa visão de excelência no desenvolvimento web e integração de efeitos visuais de última geração.
 
 <h2 align="left">
  🦄 Linguagens:
