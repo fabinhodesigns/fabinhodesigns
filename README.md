@@ -34,14 +34,15 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
 <a href="https://www.instagram.com/ffabiiin/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<a href="https://www.instagram.com/fabinhodesigns/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/@fabinhodesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
 <a href="https://www.youtube.com/@fabinhodesigns" title="YouTube" target="_blank">
 <img src="https://img.shields.io/badge/@fabinhodesigns-FF0909?style=for-the-badge&logo=youtube&logoColor=white" alt="TikTok"/></a>
 
 <a href="https://www.tiktok.com/@fabinhodesigns" title="TikTok" target="_blank">
 <img src="https://img.shields.io/badge/@fabinhodesigns-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+
+<a href="https://www.instagram.com/fabinhodesigns/" title="Instagram" target="_blank">
+<img src="https://img.shields.io/badge/@fabinhodesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
 <br>
 <br>
 <table>
