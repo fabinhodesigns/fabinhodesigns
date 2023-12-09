@@ -5,7 +5,7 @@
 <p align="left"> 
   Sou catarinense, tatualmente tenho 21 anos e sou <strong>Desenvolvedor Full Stack em PHP</strong>.
 
-Faço faculdade na <a href="https://ufsc.br/"><strong>Universidade Federal de Santa Catarina - UFSC</strong></a> no curso de <a href="https://tic.ufsc.br/">>strong>Tecnologias da informação e Comunicação<strong></strong></a>. Atualmente busco melhorar cada vez mais meu conhecimento técnico como desenvolvedor, mas me especializando mais na área de Frontend que gosto mais. Sou também um entusiasta da área de <strong>Motion Designer & VFX</strong>, criando e editando diversos vídeos, publicando eles tanto no YouTube, TikTok e Instragram.
+Faço faculdade na <a href="https://ufsc.br/"><strong>Universidade Federal de Santa Catarina - UFSC</strong></a> no curso de <a href="https://tic.ufsc.br/"><strong>Tecnologias da informação e Comunicação<strong></strong></a>. Atualmente busco melhorar cada vez mais meu conhecimento técnico como desenvolvedor, mas me especializando mais na área de Frontend que gosto mais. Sou também um entusiasta da área de <strong>Motion Designer & VFX</strong>, criando e editando diversos vídeos, publicando eles tanto no YouTube, TikTok e Instragram.
 
 Estou sempre em busca de desafios e oportunidades para crescimento contínuo. Interessado em colaborações dinâmicas e troca de ideias inovadoras, tenho paixão por conhecer mentes criativas e aprimorar o cenário digital. Ansioso para conectar e compartilhar nossa visão de excelência no desenvolvimento web e integração de efeitos visuais de última geração.
 
