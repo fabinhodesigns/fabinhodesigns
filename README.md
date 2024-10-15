@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador cartonizado." min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou catarinense, tenho 21 anos e sou <strong>Desenvolvedor Full Stack em PHP</strong>.
+  Sou catarinense, tenho 22 anos e sou <strong>designer e desenvolvedor</strong>.
 
 Faço faculdade na <a href="https://ufsc.br/" target="_blank"><strong>Universidade Federal de Santa Catarina - UFSC</strong></a> no curso de <a target="_blank" href="https://tic.ufsc.br/"><strong>Tecnologias da informação e Comunicação</strong></a>. Atualmente busco melhorar cada vez mais meu conhecimento técnico como desenvolvedor, me especializando mais na área de Front-End. Também sou um entusiasta da área de <strong>Motion Designer & VFX</strong>, criando e editando diversos vídeos, publicando eles tanto no YouTube, TikTok e Instagram.
 
