@@ -96,18 +96,3 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
-
-<!-- New Dynamic Counter -->
-<div align="center">
-  <h3><b>Interactive Clicker Game</b></h3>
-  <p>👊 Comece a contagem clicando no botão abaixo!</p>
-  <button onclick="startClickerGame()">Start Game</button>
-  <div id="clicker-result"></div>
-  <script>
-    let clickCount = 0;
-    function startClickerGame() {
-      clickCount++;
-      document.getElementById("clicker-result").innerHTML = `Você clicou ${clickCount} vezes! 💪`;
-    }
-  </script>
-</div>
