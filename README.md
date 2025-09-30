@@ -82,38 +82,3 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
     />
   </a>
 </div>
-
-<!-- Add Neon Effect and Background Animation -->
-<style>
-  body {
-    background: linear-gradient(45deg, #FF0099, #00FF99);
-    background-size: 400% 400%;
-    animation: gradient 5s ease infinite;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-  }
-
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  h1, h2, h3 {
-    text-shadow: 0 0 10px #FF00FF, 0 0 20px #00FF99;
-  }
-
-  p {
-    text-shadow: 0 0 5px #FF00FF, 0 0 10px #00FF99;
-  }
-
-  a {
-    color: #FF66FF;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: #00FF99;
-    text-shadow: 0 0 15px #FF00FF;
-  }
-</style>
