@@ -35,7 +35,7 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <a target="_blank" href="https://www.youtube.com/@fabinhodesigns" title="YouTube" target="_blank">
-<img src="https://img.shields.io/badge/@fabinhodesigns-FF0909?style=for-the-badge&logo=youtube&logoColor=white" alt="TikTok"/></a>
+<img src="https://img.shields.io/badge/@fabinhodesigns-FF0909?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <a target="_blank" href="https://www.tiktok.com/@fabinhodesigns" title="TikTok" target="_blank">
 <img src="https://img.shields.io/badge/@fabinhodesigns-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
@@ -96,3 +96,18 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+
+<!-- New Dynamic Counter -->
+<div align="center">
+  <h3><b>Interactive Clicker Game</b></h3>
+  <p>👊 Comece a contagem clicando no botão abaixo!</p>
+  <button onclick="startClickerGame()">Start Game</button>
+  <div id="clicker-result"></div>
+  <script>
+    let clickCount = 0;
+    function startClickerGame() {
+      clickCount++;
+      document.getElementById("clicker-result").innerHTML = `Você clicou ${clickCount} vezes! 💪`;
+    }
+  </script>
+</div>
