@@ -34,7 +34,7 @@ Estou sempre em busca de desafios e oportunidades para crescimento contínuo. In
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a target="_blank" href="https://www.instagram.com/ffabiiin/" title="Instagram">
+  <a target="_blank" href="https://www.instagram.com/fabinhodesigns/" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
