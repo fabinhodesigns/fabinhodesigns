@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador cartonizado." min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left" style="color: #00FF99; font-size: 20px;">&nbsp;
-&nbsp; Sou catarinense, tenho 23 anos, sou <strong>designer e desenvolvedor</strong>.</p>
+&nbsp;Sou catarinense, tenho 23 anos, sou <strong>designer e desenvolvedor</strong>.</p>
 
 <p>Sou formado pela <a href="https://ufsc.br/" target="_blank" style="color: #FF66FF; text-decoration: none;"><strong>Universidade Federal de Santa Catarina - UFSC</strong></a> no curso de <a target="_blank" href="https://tic.ufsc.br/" style="color: #FF66FF; text-decoration: none;"><strong>Tecnologias da Informação e Comunicação</strong></a>. Atualmente busco melhorar cada vez mais meu conhecimento técnico como desenvolvedor, me especializando mais na área de Front-End. Também sou um entusiasta da área de <strong>Motion Design & VFX</strong>, criando e editando diversos vídeos, publicando eles tanto no YouTube, TikTok e Instagram.
 
